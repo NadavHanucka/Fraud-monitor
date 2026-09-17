@@ -71,6 +71,9 @@ produce identical results.
   different precision/recall trade-offs to maximize overall recall while
   keeping the false-positive rate manageable.
 
+## Dashboard
+![Power BI Dashboard](dashboard_screenshot.png)
+
 ## Dataset
 
 This project uses the 
