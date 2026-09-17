@@ -18,7 +18,7 @@ application-layer competency.
 - **Java** (Maven, JDBC)
 - **PostgreSQL**
 - **PaySim dataset** (Kaggle) — synthetic financial transaction data
-- **Power BI / Tableau** — dashboard
+- **Power BI** — dashboard
 
 ## Database Schema
 
