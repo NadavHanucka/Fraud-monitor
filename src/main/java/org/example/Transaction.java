@@ -44,10 +44,10 @@ public class Transaction {
     public BigDecimal getAmount(){
         return this.amount;
     }
-    public String getOrigAccountid(){
+    public String getOrigAccountId(){
         return this.origAccountId;
     }
-    public String getDestAccountid(){
+    public String getDestAccountId(){
         return this.destAccountId;
     }
     public BigDecimal getOldbalanceorg(){
@@ -62,10 +62,10 @@ public class Transaction {
     public BigDecimal getNewbalancedest(){
         return this.newbalancedest;
     }
-    public boolean IsFraud(){
+    public boolean isFraud(){
         return this.isFraud;
     }
-    public boolean IsFlaggedFraud(){
+    public boolean isFlaggedFraud(){
         return this.isFlaggedFraud;
     }
 

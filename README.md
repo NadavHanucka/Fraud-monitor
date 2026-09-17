@@ -26,7 +26,7 @@ The database has three tables:
 
 - `accounts` — primary key `account_id`
 - `transactions` — primary key `transaction_id`
-- `alerts` — primary key `alert_id`, foreign key `transaction_id` referencing `transactions`
+- `alerts` — primary key `alerts_id`, foreign key `transaction_id` referencing `transactions`
 
 See `schema.sql` for the full definitions.
 
